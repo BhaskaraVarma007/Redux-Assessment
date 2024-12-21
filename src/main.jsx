@@ -5,12 +5,16 @@ import App from './App';
 import { Provider } from 'react-redux';
 import { store } from './redux/store';
 import { ThemeProvider } from './context/ThemeContext';
+// import { ThemeProvider } from './context/ThemeContext';
 
 ReactDOM.render(
   <React.StrictMode>
     <Provider store={store}>
-      <ThemeProvider>
+      {/* <ThemeProvider>
         <App/>
+      </ThemeProvider> */}
+      <ThemeProvider>
+        <App />
       </ThemeProvider>
     </Provider>
   </React.StrictMode>,
