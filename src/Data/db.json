@@ -1,0 +1,26 @@
+
+{
+    "products": [
+      { "id": 1, "name": "Smartphone", "price": 8000 },
+      { "id": 2, "name": "Laptop", "price": 12000 },
+      { "id": 3, "name": "Smartwatch", "price": 3000 },
+      { "id": 4, "name": "Headphones", "price": 1500 },
+      { "id": 5, "name": "Bluetooth Speaker", "price": 1000 },
+      { "id": 6, "name": "4K TV", "price": 30000 },
+      { "id": 7, "name": "Tablet", "price": 15000 },
+      { "id": 8, "name": "Digital Camera", "price": 60000 },
+      { "id": 9, "name": "Game Console", "price": 4000 },
+      { "id": 10, "name": "Wireless Charger", "price": 400 },
+      { "id": 11, "name": "Action Camera", "price": 25000 },
+      { "id": 12, "name": "Portable Power Bank", "price": 600 },
+      { "id": 13, "name": "Gaming Monitor", "price": 35000 },
+      { "id": 14, "name": "Laptop Stand", "price": 300 },
+      { "id": 15, "name": "Smart Home Hub", "price": 1300 },
+      { "id": 16, "name": "VR Headset", "price": 3000 },
+      { "id": 17, "name": "Smart Thermostat", "price": 800 },
+      { "id": 18, "name": "E-Reader", "price": 520 },
+      { "id": 19, "name": "Electric Toothbrush", "price": 220 },
+      { "id": 20, "name": "Laptop Bag", "price": 500 }
+    ]
+  }
+  
