@@ -4,7 +4,6 @@ import './index.css';
 import App from './App';
 import { Provider } from 'react-redux';
 import { store } from './redux/store';
-// import { ThemeProvider } from './Context/ThemeContext';
 import { ThemeProvider } from './context/ThemeContext';
 
 ReactDOM.render(
