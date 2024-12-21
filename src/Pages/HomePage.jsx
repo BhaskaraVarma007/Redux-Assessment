@@ -5,7 +5,7 @@ import ProductList from '../Components/ProductList';
 import SortOptions from '../Components/SortOptions';
 import ThemeToggle from '../Components/ThemeToggle';
 import ProductSearch from '../Components/ProductSearch';  
-import withNoProducts from '../hoc/withNoProducts';
+import withNoProducts from '../Hoc/withNoProducts';
 
 const ProductListWithHOC = withNoProducts(ProductList);
 
